@@ -1,0 +1,14 @@
+<resource>
+    <info author="ChatGPT" description="Bicycle rental system" version="1.0"/>
+    <script src="client.lua" type="client"/>
+    <script src="server.lua" type="server"/>
+    <file src="Fundo.png"/>
+    <file src="Base.png"/>
+    <file src="Slot.png"/>
+    <file src="Bike.png"/>
+    <file src="Bike2.png"/>
+    <file src="Alugar.png"/>
+    <file src="Sair.png"/>
+    <file src="SFPRODISPLAYREGULAR.OTF"/>
+    <file src="SFPRODISPLAYMEDIUM.OTF"/>
+</resource>
